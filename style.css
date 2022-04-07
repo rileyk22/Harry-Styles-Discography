@@ -1,8 +1,12 @@
 h1 {
 	
-	color: #87C4F2;
+	color: #2D92D1;
 }
 
 body {
-	background-color: #FFF6F9;
+	background-color: #AADEEE;
+}
+
+ p, li, a {
+	color: #2D92D1;
 }
